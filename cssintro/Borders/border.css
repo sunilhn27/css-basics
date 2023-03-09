@@ -1,0 +1,47 @@
+body {
+    background-color: aqua;
+    margin-right: 20px;
+}
+
+h2 {
+    border: solid;
+    border-width: 5px;
+    border-color: brown;
+}
+
+h2.inset{
+    border-style: inset;
+    border-width: medium;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+
+h2.solid{
+    border-style: solid;
+    border-width: thick;
+}
+
+
+h2.dotted{
+    border: dotted;
+}
+
+h2.dashed{
+    border: dashed;
+}
+
+
+h2.groove{
+    border: groove;
+}
+
+
+h2.outset{
+    border-style: outset;
+}
+
+h2.double{
+    border: double;
+}
+

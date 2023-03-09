@@ -1,0 +1,13 @@
+body{
+    background-image: url('tree.png');
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-position: top right 0.2cm;
+    margin-right: 20px;
+    background-attachment: fixed;
+}
+
+/* Same as Above */
+body{
+    background:fixed url('tree.png') no-repeat aqua top right;
+}

@@ -1,0 +1,102 @@
+body {
+    background-color: white;
+    background-image: url('login.jpg');
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    border: 2px solid rgb(5, 0, 0);
+    width: 400px;
+    height: 500px;
+    margin-top: 60px;
+    margin: auto;
+    border-radius: 30px;
+
+}
+
+.container h1 {
+    text-align: center;
+    margin-top: 100px;
+    color: azure;
+}
+
+.username {
+    text-align: center;
+    margin-top: 50px;
+    padding-right: 9px;
+
+}
+
+.container input {
+    height: 20px;
+    width: 90px;
+    border-radius: 30px;
+}
+
+.password {
+    text-align: center;
+    margin-top: 50px;
+}
+
+label {
+    color: azure;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 20px;
+    height: 20px;
+}
+
+button.btn1 {
+    text-align: center;
+    color: rgb(45, 0, 128);
+    height: 20px;
+    width: 150px;
+
+}
+
+.forgotpassword {
+    margin-top: 50px;
+    margin-left: 270px;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.icons{
+    margin-left: 180px;
+    margin-top: 20px;
+    text-decoration: none;
+    
+}

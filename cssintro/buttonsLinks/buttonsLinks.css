@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(21, 185, 185);
+
+}
+
+.container {
+    border: 2px solid red;
+    width: 800px;
+    margin: auto;
+    background-color: #97d215;
+}
+
+* {
+    font-family: 'Concert One', cursive;
+
+}
+
+div {
+    border: 2px solid rebeccapurple;
+    border-radius: 15px;
+    margin: 8px;
+    padding: 10px;
+}
+
+div.first,
+div.secound,
+div.third {
+    background-color: brown;
+}
+
+h1 {
+    color: yellow;
+}
+
+.buttons {
+    margin: auto;
+    margin-left: 300px;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(112, 13, 170);
+}
+
+a:visited {
+    color: green;
+}

@@ -1,0 +1,33 @@
+body{
+ background-color: white;
+ background-image: url('img.png');
+ background-repeat: repeat-x;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    border: 6px solid tomato;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    border: 25px solid rgb(26, 5, 214);
+}
+
+
+div.first{
+    background-color: green;
+    opacity: 0.3;
+}
+
+div.secound{
+    background-color: green;
+    opacity: 0.6;
+}
+
+div.Third{
+    background-color: green;
+    opacity: 0.9;
+}

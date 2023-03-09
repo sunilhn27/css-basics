@@ -1,0 +1,76 @@
+body {
+    background-color: aqua;
+    margin-right: 20px;
+}
+
+
+div.pad {
+    border: solid;
+    background-color: blue;
+    color: aliceblue;
+    height: 50px;
+    width: 600px;
+    padding-bottom: 50px;
+
+}
+
+div.pad1 {
+    border: solid;
+    margin-top: 20px;
+    background-color: chocolate;
+    color: aliceblue;
+    max-width: 700px;
+
+}
+
+
+div.hight {
+    height: 30px;
+    width: 1060px;
+    color: aliceblue;
+    background-color: rgb(93, 22, 207);
+    border-radius:75px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    outline-style: dashed;
+    border: 2px solid rgb(230, 10, 101);
+}
+
+div.hight {
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    text-align: center;
+}
+
+div.firstItem{
+    background-color: red;
+    color: antiquewhite;
+    font-weight: 500;
+   
+}
+div.target{
+    background-color: green;
+    color: antiquewhite;
+    font-weight: 500;
+    margin: 30px 60px;
+
+}
+
+div.thirdItem{
+     background-color: yellow;
+     color: black;
+     font-weight: 500;
+}
+
+div.firstItem ,div.target ,div.thirdItem{
+    border-style: solid;
+    border-radius: 21px;
+    margin-bottom: 5px;
+
+}
+

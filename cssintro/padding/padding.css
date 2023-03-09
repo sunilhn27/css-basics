@@ -1,0 +1,39 @@
+body {
+    background-color: aqua;
+    margin-right: 20px;
+}
+
+h1 {
+    border: solid;
+    border-style: dotted;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+div.pad {
+    border: solid;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+    color: blue;
+    background-color: burlywood;
+}
+
+
+.btn1 {
+    margin-top: 50px;
+    margin-left: 600px;
+    padding-top: 0px;
+    color: blueviolet;
+    flex: auto;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+
+.btn1:hover {
+    color: brown;
+}
